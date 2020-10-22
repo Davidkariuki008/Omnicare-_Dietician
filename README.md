@@ -7,7 +7,9 @@ An AI based web application that gives nutritional advice based on BMI and activ
 3. Run the following commands on the terminal
 
   i. py manage.py migrate
+  
   ii. py manage.py makemigrations
+  
   iii. py manage.py migrate
   
 4. Create a super-user 
