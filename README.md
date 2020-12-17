@@ -2,6 +2,12 @@
 # Omnicare_Dietician
 An AI based web application that gives nutritional advice based on BMI and activity 
 
+# Authors
+1. David Kariuki
+2. Janet Muhia
+3. Hellen Cheptoo
+4. Tabitha Koech
+
 ## Running the project
 1. Create and activate a virtual environment 
 2. Install the requirements 
