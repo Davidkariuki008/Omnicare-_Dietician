@@ -7,6 +7,7 @@ An AI based web application that gives nutritional advice based on BMI and activ
 2. Janet Muhia
 3. Hellen Cheptoo
 4. Tabitha Koech
+5. Lavina Odungo
 
 ## Running the project
 1. Create and activate a virtual environment 
